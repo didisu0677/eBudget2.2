@@ -1,0 +1,20 @@
+{
+    "field": {
+        "id": "primary_key",
+        "parent_id": "int",
+        "kode_cabang": "varchar",
+        "nama_cabang": "varchar",
+        "level": "int",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "parent_id": "Parent Id",
+        "kode_cabang": "Kode Cabang",
+        "nama_cabang": "Nama Cabang",
+        "level": "Level",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

@@ -1,0 +1,25 @@
+
+	.wd-100{
+		width: 100px !important;
+		min-width: 100px !important;
+		max-width: 100px !important;
+	}
+	.wd-150{
+		width: 150px !important;
+		min-width: 150px !important;
+		max-width: 150px !important;
+	}
+	.wd-230{
+		width: 350px !important;
+		min-width: 350px !important;
+		max-width: 350px !important;
+	}
+	.d-bg-header th{
+		background-color: #e64a19 !important;
+	}
+	.d-bg-header span{
+		color: #fff !important;
+	}
+	.d-bg-header red{
+		color: #e64a19 !important;
+	}

@@ -1,0 +1,23 @@
+
+.cabang-info{
+	text-align: right;
+}
+.cabang-info .title{
+	font-size: 20px;
+    color: #585757;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.tbl-1 thead th{
+	background: #f7ab0099;
+    color: #0a0a0ab5;
+    text-align: center;
+}
+.tbl-1 tfoot th, .tbl-2 tfoot th{
+    text-align: center !important;
+}
+.tbl-2 thead th{
+    background: #55545196;
+    color: #ffffffe3;
+    text-align: center;
+}

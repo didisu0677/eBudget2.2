@@ -1,0 +1,40 @@
+{
+    "field": {
+        "id": "primary_key",
+        "kode_cabang": "varchar",
+        "coa": "varchar",
+        "bulan1": "int",
+        "bulan2": "int",
+        "bulan3": "int",
+        "bulan4": "int",
+        "bulan5": "int",
+        "bulan6": "int",
+        "bulan7": "int",
+        "bulan8": "int",
+        "bulan9": "int",
+        "bulan10": "int",
+        "bulan11": "int",
+        "bulan12": "int",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "kode_cabang": "Kode Cabang",
+        "coa": "Coa",
+        "bulan1": "Bulan1",
+        "bulan2": "Bulan2",
+        "bulan3": "Bulan3",
+        "bulan4": "Bulan4",
+        "bulan5": "Bulan5",
+        "bulan6": "Bulan6",
+        "bulan7": "Bulan7",
+        "bulan8": "Bulan8",
+        "bulan9": "Bulan9",
+        "bulan10": "Bulan10",
+        "bulan11": "Bulan11",
+        "bulan12": "Bulan12",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

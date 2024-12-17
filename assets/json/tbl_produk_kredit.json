@@ -1,0 +1,18 @@
+{
+    "field": {
+        "id": "primary_key",
+        "coa": "varchar",
+        "nama_produk_kredit": "varchar",
+        "grup": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "coa": "Coa",
+        "nama_produk_kredit": "Nama Produk Kredit",
+        "grup": "Grup",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

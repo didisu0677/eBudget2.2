@@ -1,0 +1,12 @@
+
+.style-select2 .select2-container--default{
+	width: 100% !important;
+}
+.style-select2 .select2-container--default .select2-selection--single{
+	width: 100% !important;
+}
+.t-column{
+	font-size:10px;
+    color:#d80505;
+}
+.content-header{ height: auto !important; }.content-header .float-right{ margin-top: 1rem !important; }.content-header .header-info{ position: relative !important; }.mt-6{ margin-top: 4em;}

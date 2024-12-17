@@ -1,0 +1,14 @@
+{
+    "field": {
+        "id": "primary_key",
+        "struktur_cabang": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "struktur_cabang": "Struktur Cabang",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

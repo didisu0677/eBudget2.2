@@ -1,0 +1,29 @@
+
+	red{
+		color:red;
+	}
+	.mw-100{
+		min-width: 100px !important;
+	}
+	.mw-150{
+		min-width: 200px !important;
+	}
+	.mw-250{
+		min-width: 350px !important;
+	}
+	.t-sb-1{
+		background-color: #cacaca;
+	}
+	.r-45{
+		transform: rotate(45deg);
+	}
+	.r-45-{
+		transform: rotate(-45deg);
+	}
+	.mt-6{
+		margin-top: 5em;
+	}
+	.select2-selection__rendered{
+		text-align: left !important;
+	}
+.content-header{ height: auto !important; }.content-header .float-right{ margin-top: 1rem !important; }.content-header .header-info{ position: relative !important; }.mt-6{ margin-top: 4em;}

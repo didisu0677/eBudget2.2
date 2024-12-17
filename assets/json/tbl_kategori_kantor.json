@@ -1,0 +1,18 @@
+{
+    "field": {
+        "id": "primary_key",
+        "kategori": "varchar",
+        "harga": "money",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "kategori": "Kategori",
+        "harga": "Perkiraan Biaya",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "kategori": "required"
+    },
+    "alias": []
+}

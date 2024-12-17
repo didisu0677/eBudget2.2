@@ -1,0 +1,21 @@
+{
+    "field": {
+        "id": "primary_key",
+        "nama": "varchar",
+        "warna": "warna",
+        "default": "boolean",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "nama": "Nama Keterangan",
+        "warna": "Warna",
+        "default": "Default",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "nama": "required|unique",
+        "warna": "required"
+    },
+    "alias": []
+}
